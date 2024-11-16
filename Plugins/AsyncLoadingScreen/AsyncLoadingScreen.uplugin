@@ -2,6 +2,7 @@
 	"FileVersion": 3,
 	"Version": 8,
 	"VersionName": "1.5.1",
+	"EngineVersion": "5.5.0",
 	"FriendlyName": "Async Loading Screen",
 	"Description": "Allows you to configure a Loading Screen system in the project settings easily and automatically add a Loading Screen in your game whenever you open a new level.",
 	"Category": "Loading Screen",
@@ -10,7 +11,6 @@
 	"DocsURL": "https://github.com/truong-bui/AsyncLoadingScreen",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/01f39767dc6b4290877f38365787cbf8",
 	"SupportURL": "https://github.com/truong-bui/AsyncLoadingScreen/issues",
-	"EngineVersion": "5.4.0",
 	"CanContainContent": true,
 	"Installed": true,
 	"Modules": [
